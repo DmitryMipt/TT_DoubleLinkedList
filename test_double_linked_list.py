@@ -1,6 +1,6 @@
 """Testing my double linked list"""
 import unittest
-from .double_linked_list import DoubleLinkedList
+from double_linked_list import DoubleLinkedList, Item
 
 
 class TestDoubleLinkedList(unittest.TestCase):
